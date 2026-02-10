@@ -66,8 +66,8 @@
 <body>
 
   <div class="card" id="card">
-    <h1>Hey HER_NAME 💕</h1>
-    <p>Yes you… my favorite short stuff 😌</p>
+    <h1>Hey ASIPHE 💕</h1>
+    <p>Yes you…short stuff 😌</p>
     <p>I have one very important question for you…</p>
     <h2>Will you be my Valentine? 💌</h2>
     <button id="yes">YES 😍</button>
